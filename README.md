@@ -5,7 +5,7 @@ This repository contains the PyTorch implementation of the DWRA-DTI framework. D
 
 ## Overview
 
-![](C:\Users\35720\Desktop\在做\流程图\图片1.png)
+![](DWRA-DTI\image\fig1.png)
 
 ## System Requirements
 
